@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "daniking.lancheatingoff.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+
+  ],
+  "client": [
+    "TurnOffLanCheatingMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
